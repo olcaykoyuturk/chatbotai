@@ -9,7 +9,7 @@ Before you start the application, please don't forget to add your API key to the
 
 ## Images
 <p align="center">
-  <img src="https://github.com/olcaykoyuturk/chatbotai/blob/main/img/Screenshot_20240303_131614.png?raw=true" alt="Upload Step 1" width="200">
-  <img src="https://github.com/olcaykoyuturk/chatbotai/blob/main/img/Screenshot_20240303_131745.png?raw=true" alt="Upload Step 2" width="200">
-  <img src="https://github.com/olcaykoyuturk/chatbotai/blob/main/img/Screenshot_20240303_131827.png?raw=true" alt="Upload Step 3" width="200">
+  <img src="https://github.com/olcaykoyuturk/chatbotai/blob/main/img/Screenshot_20240303_131614.png?raw=true" alt="Upload Step 1" width="250">
+  <img src="https://github.com/olcaykoyuturk/chatbotai/blob/main/img/Screenshot_20240303_131745.png?raw=true" alt="Upload Step 2" width="250">
+  <img src="https://github.com/olcaykoyuturk/chatbotai/blob/main/img/Screenshot_20240303_131827.png?raw=true" alt="Upload Step 3" width="250">
 </p>
